@@ -1,0 +1,15 @@
+.border{
+    margin-top: 10px;
+    border-style: groove;
+}
+.border-margin{
+    margin-top: 10px;
+    margin-right: 70px;
+    border-style: groove;
+    background-color:pink;
+}
+.margin-right{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 100px;
+}
